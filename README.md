@@ -4,7 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=d096fa&height=150&section=header&text=Jiyeon's%20GitHub&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=50)
 
-# 👩‍💻introduce
+# 👩‍💻Introduce
  ### 안녕하세요😊 데이터사이언티스트를 꿈꾸는 김지연입니다!
 
  <a href="https://jiyeon01.notion.site/f58b309d99dd489c8a240af1abfb0473?pvs=74">
