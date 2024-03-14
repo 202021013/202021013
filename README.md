@@ -6,6 +6,7 @@
 
 # 👩‍💻 Introduce
  ### 안녕하세요😊 데이터사이언티스트를 꿈꾸는 김지연입니다!
+ #### 자연어 처리(NLP), 컴퓨터 비전(CV), 데이터 전처리, 시각화의 관심을 갖고 공부하고 있습니다!
 
  <a href="https://jiyeon01.notion.site/f58b309d99dd489c8a240af1abfb0473?pvs=74">
   <img src="https://img.shields.io/badge/portfolio-%23000000.svg?flat=for-the-badge&logo=notion&logoColor=white" 
