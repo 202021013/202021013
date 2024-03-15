@@ -34,7 +34,7 @@
  
 # 💎 Study log
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=202021013&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=202021013&layout=compact) -->
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=202021013&show_icons=true&theme=tokyonight)
 
